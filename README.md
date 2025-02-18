@@ -12,7 +12,7 @@ Minecraft Mods (Modding) – Using Java, players can create mods that add new fe
 Minecraft Education Edition – This version includes coding tools like Code Builder, allowing students to write scripts in Python or JavaScript to automate in-game actions.
 Datapacks & Scripting – Players can create custom datapacks using JSON and functions, enhancing their understanding of structured data and automation.
 Conclusion
-Minecraft is more than just a game—it’s a platform that fosters creativity, problem-solving, and programming skills. Whether through Redstone, command blocks, or Java-based modding, it provides an engaging way to learn and apply coding concepts.
+Minecraft is more than just a game—it’s a Platform that fosters creativity, problem-solving, and programming skills. Whether through Redstone, command blocks, or Java-based modding, it provides an engaging way to learn and apply coding concepts.
 
 
 #Minecraft Clone in C#
