@@ -3,7 +3,7 @@ This is My first time making Game .... MINECRAFT  Worlds most Popular game !
 
 Minecraft and Its Role in Programming
 Introduction
-Minecraft is a popular sandbox game that allows players to explore, build, and survive in a procedurally generated world. Developed by Mojang Studios and released in 2011, Minecraft has not only become a global phenomenon in gaming but has also played a significant role in programming education.
+Minecraft is a popular sandbox game that allows Players to explore, build, and survive in a procedurally generated world. Developed by Mojang Studios and released in 2011, Minecraft has not only become a global phenomenon in gaming but has also played a significant role in programming education.
 
 How Minecraft Helps in learning Programming
 Redstone Mechanics – Redstone, Minecraft’s in-game circuitry system, introduces players to logic gates, automation, and basic engineering concepts, similar to real-world programming logic.
