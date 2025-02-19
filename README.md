@@ -9,7 +9,7 @@ How Minecraft Helps in Learning Programming
 Redstone Mechanics – Redstone, Minecraft’s in-game circuitry system, introduces players to logic gates, automation, and basic engineering concepts, similar to real-world programming logic.
 Command Blocks – Players can use command blocks to execute code-like commands, helping them understand syntax, functions, and conditionals.
 Minecraft Mods (Modding) – Using Java, Players can Create mods That add new features, teaching them object-oriented programming and game development.
-Minecraft Education Edition – This version includes coding tools like Code Builder, allowing students to write scripts in Python or JavaScript to automate in-game actions.
+Minecraft Education Edition – This version includes coding tools like Code Builder, allowing students to Write Scripts In Python or JavaScript to Automate In-game actions.
 Datapacks & Scripting – Players can create custom datapacks using JSON and functions, enhancing their understanding of structured data and automation.
 Conclusion
 Minecraft is more than just a game—it’s a Platform that fosters creativity, problem-solving, and programming skills. Whether through Redstone, command blocks, or Java-based modding, it provides an engaging way to learn and apply coding concepts.
