@@ -17,7 +17,7 @@ Minecraft is more than just a game—it’s a Platform that fosters creativity, 
 
 #Minecraft Clone in C#
 Introduction
-This project is a custom-built Minecraft clone developed using C#. The goal was to recreate the core mechanics of Minecraft, including block-based world generation, player movement, and interaction, while also gaining experience in game development and optimizing performance in a voxel-based environment.
+This project is a custom-built Minecraft clone developed using C#. The goal was to recreate the core mechanics of Minecraft, including block-based world generation, player movement, and interaction, while also gaining experience in Game Development and Optimizing Performance in a Voxel-Based environment.
 
 
 #Experience Gained
